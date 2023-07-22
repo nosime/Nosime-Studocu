@@ -2,7 +2,7 @@
  ___Extension Download Studocu Free___
 1. Tải về Extension về và giải nén.
 2. Vào tiện ích của Chrome hoặc trình duyệt bất kì .
-3. =>( thao tác tay nếu biết chổ không thì dùng link này cho nó nhanh : [Tiện ích](chrome://extensions/)).
+3. =>( thao tác tay nếu biết chổ không thì copy dùng link này cho nó nhanh : chrome://extensions/).
 4. Bật chế độ nhà phát triển tại **_góc trên bên phải_** của trang tiện ích.
 5. Chọn ô **_Tải tiện ích đã giải nén_** góc trên bên trái.
 6. Cửa sổ hiện lên **chọn file vừa giải nén ở bước 1** rồi ok.
